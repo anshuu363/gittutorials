@@ -1,8 +1,5 @@
 age = 24
-name1 = "Anshuman Joshi"
+name = "Anshuman Joshi"
 
-def isabove18():
-    return age >= 18
-
-def isbelow18():
-    return age < 18
+def sub(a,b):
+    return a-b
